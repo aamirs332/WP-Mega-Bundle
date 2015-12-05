@@ -1,0 +1,115 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/flaticon.eot");
+	src: url("../fonts/flaticon.eot#iefix") format("embedded-opentype"),
+	url("../fonts/flaticon.woff") format("woff"),
+	url("../fonts/flaticon.ttf") format("truetype"),
+	url("../fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 15px;
+font-style: normal;
+margin-left: 0px;
+}.flaticon-2440:before {
+	content: "\e000";
+}
+.flaticon-accordion1:before {
+	content: "\e001";
+}
+.flaticon-arrows143:before {
+	content: "\e002";
+}
+.flaticon-circular297:before {
+	content: "\e003";
+}
+.flaticon-client2:before {
+	content: "\e004";
+}
+.flaticon-computer90:before {
+	content: "\e005";
+}
+.flaticon-earth186:before {
+	content: "\e006";
+}
+.flaticon-facebook3:before {
+	content: "\e007";
+}
+.flaticon-facebook45:before {
+	content: "\e008";
+}
+.flaticon-facebook55:before {
+	content: "\e009";
+}
+.flaticon-favorite21:before {
+	content: "\e00a";
+}
+.flaticon-flickr5:before {
+	content: "\e00b";
+}
+.flaticon-instagram12:before {
+	content: "\e00c";
+}
+.flaticon-left-arrow5:before {
+	content: "\e00d";
+}
+.flaticon-leftarrow67:before {
+	content: "\e00e";
+}
+.flaticon-lightning31:before {
+	content: "\e00f";
+}
+.flaticon-mailchimp:before {
+	content: "\e010";
+}
+.flaticon-male127:before {
+	content: "\e011";
+}
+.flaticon-map35:before {
+	content: "\e012";
+}
+.flaticon-marketing8:before {
+	content: "\e013";
+}
+.flaticon-pie30:before {
+	content: "\e014";
+}
+.flaticon-progress9:before {
+	content: "\e015";
+}
+.flaticon-quotes2:before {
+	content: "\e016";
+}
+.flaticon-right-arrow6:before {
+	content: "\e017";
+}
+.flaticon-social16:before {
+	content: "\e018";
+}
+.flaticon-soundcloud4:before {
+	content: "\e019";
+}
+.flaticon-spinner2:before {
+	content: "\e01a";
+}
+.flaticon-suitcase13:before {
+	content: "\e01b";
+}
+.flaticon-table19:before {
+	content: "\e01c";
+}
+.flaticon-twitter1:before {
+	content: "\e01d";
+}
+.flaticon-vintage2:before {
+	content: "\e01e";
+}
+.flaticon-web-feed1:before {
+	content: "\e01f";
+}
+.flaticon-wordpress2:before {
+	content: "\e020";
+}
