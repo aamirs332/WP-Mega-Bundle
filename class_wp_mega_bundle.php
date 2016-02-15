@@ -114,7 +114,6 @@ if (!class_exists('Wp_Mega_Bundle')) {
         public static function mb_enqueue_admin_assets() {
             //Js
             wp_enqueue_script('jquery');
-            wp_enqueue_script('mb_shortcodes_js' , plugins_url('core/assets/js/shortcode_handler.js' , __FILE__) , array ('jquery') , '1.0' , true); 
             wp_enqueue_script('mb_function_js' , plugins_url('core/assets/js/functions.js' , __FILE__) , array ('jquery') , '1.0' , true);
             wp_enqueue_script('mb_sticky_js' , plugins_url('core/assets/js/sticky.js' , __FILE__) , array ('jquery') , '1.0' , true); 
             //Styles
